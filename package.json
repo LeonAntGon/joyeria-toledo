@@ -18,5 +18,15 @@
     "@tailwindcss/postcss": "^4",
     "autoprefixer": "^10.4.21",
     "tailwindcss": "^4.1.10"
-  }
+  },
+"tailwindcss": {
+   "content": [
+     "./src/app/**/*.{js,ts,jsx,tsx}",
+     "./src/components/**/*.{js,ts,jsx,tsx}"
+   ],
+   "theme": {
+     "extend": {}
+   },
+   "plugins": []
+ }
 }
