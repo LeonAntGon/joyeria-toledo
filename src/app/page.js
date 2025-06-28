@@ -59,7 +59,8 @@ function App() {
             Tradición artesanal con técnicas modernas.
           </p>
           
-          <button 
+          <button
+            href="https://wa.me/5493814000000?text=Hola,%20me%20interesa%20consultar%20sobre%20sus%20servicios%20de%20joyería"
             onClick={() => setIsContactOpen(true)}
             className="hero-cta-button"
           >
@@ -233,12 +234,12 @@ function App() {
               </div>
               <div className="contact-method-content">
                 <h3>Teléfono</h3>
-                <p>+54 9 381 400-0000</p>
+                <p>+54 9 381 609 0708</p>
               </div>
             </a>
             
             <a
-              href="https://wa.me/5493814000000?text=Hola,%20me%20interesa%20consultar%20sobre%20sus%20servicios%20de%20joyería"
+              href="https://wa.me/5493816090708?text=Hola,%20me%20interesa%20consultar%20sobre%20sus%20servicios%20de%20joyería"
               target="_blank"
               rel="noopener noreferrer"
               className="contact-method"
