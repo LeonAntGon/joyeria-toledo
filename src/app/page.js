@@ -60,7 +60,6 @@ function App() {
           </p>
           
           <button
-            href="https://wa.me/5493814000000?text=Hola,%20me%20interesa%20consultar%20sobre%20sus%20servicios%20de%20joyería"
             onClick={() => setIsContactOpen(true)}
             className="hero-cta-button"
           >
@@ -226,7 +225,7 @@ function App() {
           
           <div className="contact-methods">
             <a
-              href="tel:+5493814000000"
+              href="tel:+5493816090708"
               className="contact-method"
             >
               <div className="contact-method-icon contact-method-icon-phone">
@@ -289,14 +288,14 @@ function App() {
             <h3 className="modal-title">Contáctanos</h3>
             <div className="modal-actions">
               <a
-                href="tel:+5493814000000"
+                href="tel:+5493816090708"
                 className="modal-action modal-action-call"
               >
                 <Phone className="modal-action-icon" />
                 Llamar Ahora
               </a>
               <a
-                href="https://wa.me/5493814000000?text=Hola,%20me%20interesa%20consultar%20sobre%20sus%20servicios%20de%20joyería"
+                href="https://wa.me/5493816090708?text=Hola,%20me%20interesa%20consultar%20sobre%20sus%20servicios%20de%20joyería"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="modal-action modal-action-whatsapp"
